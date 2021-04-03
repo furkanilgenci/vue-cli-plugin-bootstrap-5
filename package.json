@@ -1,0 +1,24 @@
+{
+  "name": "vue-cli-plugin-bootstrap-5",
+  "version": "0.1.0",
+  "description": "Vue CLI plugin to add Bootstrap 5 with SCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "vue-cli",
+    "plugin",
+    "bootstrap",
+    "bootstrap-5"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furkanilgenci/vue-cli-plugin-bootstrap-5.git"
+  },
+  "homepage": "https://github.com/furkanilgenci/vue-cli-plugin-bootstrap-5#readme",
+  "author": "Furkan Ilgenci",
+  "license": "MIT"
+}
